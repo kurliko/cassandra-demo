@@ -1,0 +1,15 @@
+# Środowisko Pythona (tworzy się poleceniem z README)
+.venv/
+__pycache__/
+*.pyc
+
+# Archiwum ZIP z danymi; rozpakowane pliki CSV są w repo
+dane/*.zip
+
+# Pliki edytora i systemu
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
